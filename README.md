@@ -1,14 +1,14 @@
 <img src="./img/1.web.png" alt="GitHUB" align="center" >
 <img src="./img/2.mobilepage.png" alt="GitHUB" align="center" >
+<img src="./img/5.web.png" alt="GitHUB" align="center" >
 <img src="./img/3.mobile.png" alt="GitHUB" align="center" >
 <img src="./img/4.mobile.png" alt="GitHUB" align="center" >
-<img src="./img/5.web.png" alt="GitHUB" align="center" >
 <img src="./img/6.web.png" alt="GitHUB" align="center" >
 
 
 # Getting Started with Daily planner Or Reminder app
 
-<a href="" target="blank">Daily planner Or Reminder app</a>
+<a href="https://huzaifanizam.github.io/Daily_planner-Or-Reminders/">Daily planner Or Reminder app</a>
 
 
 ### " Daily planner Or Reminder app using HTML, CSS &amp; JavaScript"
