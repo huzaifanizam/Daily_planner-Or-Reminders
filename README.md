@@ -33,6 +33,9 @@ The Daily planner Or Reminder app  is created by [Huzaifa Nizam](https://www.lin
 
 
 git init
+git status
+git add .
+git status
 git add README.md
 git commit -m "first commit"
 git branch -M main
